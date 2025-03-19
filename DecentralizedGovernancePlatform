@@ -1,0 +1,15 @@
+[package]
+name = "governance"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x4a57d988b0dd822ec41d514027b23e44ecd8409fbae4daa8f32d98a5607dfdb" 
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
