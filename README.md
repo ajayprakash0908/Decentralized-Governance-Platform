@@ -23,6 +23,7 @@ Our vision is to create a decentralized and trustless governance system where co
 - **Immutable Records**: All votes and proposals are recorded on the blockchain for transparency.
 - **Decentralized Decision-Making**: Removes centralized control and empowers the community.
 
+##Contract
 0x04a57d988b0dd822ec41d514027b23e44ecd8409fbae4daa8f32d98a5607dfdb
 
 ![image](https://github.com/user-attachments/assets/1211e4ac-9860-4981-8220-2fd700670f32)
